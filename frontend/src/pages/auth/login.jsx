@@ -41,7 +41,7 @@ const Login = () => {
     <div className="login-container">
       <div className="login-header">
         <div className="logo-box">
-          <img src="/src/assets/logo.svg" alt="Logo" className="logo-image" />
+          <img src="logo.svg" alt="Logo" className="logo-image" />
         </div>
         <h1 className="page-title">Sign in</h1>
       </div>
