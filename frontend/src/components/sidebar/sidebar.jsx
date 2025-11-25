@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ChevronDown, LogOut, Plus, X } from "lucide-react";
-import styles from "./Sidebar.module.css";
+import styles from "./sidebar.module.css";
 import { menuGroups } from "./menuConfig";
 import { useNavigate, useLocation } from "react-router-dom";
 import { logout } from "../../store/slices/auth/login";
